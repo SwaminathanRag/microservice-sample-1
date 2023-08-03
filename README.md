@@ -1,5 +1,6 @@
 # microservice-sample-1
 This repository contains sample code for below microservice concepts:
+
 Microservice 1: api-gateway
 Spring Cloud API Gateway
 Netflix Eureka Naming Client and client side load balancer
