@@ -35,4 +35,4 @@ Spring Boot Config Server
 
 
 Not included:
-Zipkin Distributed tracing running in docker engine
+Zipkin Distributed tracing server container running in docker engine
