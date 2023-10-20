@@ -37,5 +37,5 @@ Spring Boot Config Server
 Not included:
 Zipkin Distributed tracing server container running in docker engine
 
-docker-compose.yaml - contains configuration for deploying microservice 1-4 in Docker 
+docker-compose.yaml - contains configuration for deploying microservice 1-4 in Docker
 currency-kubedeployment.yaml - contains configuration for deploying microservice 1-4 in Kubernetes
